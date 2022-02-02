@@ -19,7 +19,7 @@ let package = Package(
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
-        .package(url: "https://github.com/hesselbom/CrdtMapSwift", from: "0.9.2"),
+        .package(url: "https://github.com/hesselbom/CrdtMapSwift", from: "0.9.3"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
